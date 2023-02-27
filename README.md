@@ -2,7 +2,6 @@
 
 
 - 🔭 Ainda não estou trabalhando
-- 🌱 Estou aprendendo Python
 - 💬 Contrate no email ruancontacts10@gmail.com
 - 😄 Pronouns:Ele/Dele
 
