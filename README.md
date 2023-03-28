@@ -1,29 +1,16 @@
-### Olá, eu sou o Ruan
+<h1 align="center">Oi meu nome é Ruan</h1>
+<h3 align="center">eu sou universitário e estudante de T.I</h3>
 
-- 💬 Contrate no email ruancontacts10@gmail.com
-- 😄 Pronouns:Ele/Dele
+- 🌱 Eu estou aprendendo  **Python,Flutter,php**
 
--->
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruannnz7&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruannnz7&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+- 📫 Contato: **ruancontacts10@gmail.com**
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="dormrm.gif">
-    
-   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ruan1083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruan1083" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-
-
-
-
-
-
-
-![Snake animation](https://github.com/Ruannnz7/Ruannnz7/blob/output/github-contribution-grid-snake.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruannnz7&" alt="ruannnz7" /></p>
