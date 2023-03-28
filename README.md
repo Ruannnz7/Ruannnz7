@@ -1,7 +1,5 @@
 ### Olá, eu sou o Ruan
 
-
-- 🔭 Ainda não estou trabalhando
 - 💬 Contrate no email ruancontacts10@gmail.com
 - 😄 Pronouns:Ele/Dele
 
