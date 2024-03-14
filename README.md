@@ -1,5 +1,5 @@
 <h1 align="center">Oi meu nome é Ruan</h1>
-<h3 align="center">Eu sou universitário e estudante de T.I</h3>
+
 
 - 🌱 Eu estou aprendendo  **Python e Flutter**
 
