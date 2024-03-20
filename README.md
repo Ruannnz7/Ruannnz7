@@ -1,7 +1,5 @@
-<h1 align="center">Oi meu nome é Ruan</h1>
 
 
-- 🌱 Eu estou aprendendo  **Python e Flutter**
 
 - 📫 Contato: **ruancontacts10@gmail.com**
 
