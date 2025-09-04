@@ -4,7 +4,7 @@ Atualmente, estou estudando Sistemas de Informação  e busco constantemente exp
 ---
 
 ## 🚀 Sobre mim
-- 📱 Curioso por tudo que envolve desenvolvimento web, mobile e boas práticas de código  
+- 📱 Curioso por tudo que envolve desenvolvimento web e boas práticas de código  
 - ⚙️ Gosto de entender como as coisas funcionam por trás das interfaces  
 - 🎨 Valorizo organização, design limpo e experiências de usuário intuitivas  
   
