@@ -1,14 +1,21 @@
+# Olá, me chamo Ruan! 👨‍💻
 
+Atualmente, estou estudando Sistemas de Informação  e busco constantemente expandir meu conhecimento e aprimorar minhas habilidades de programação na área de tecnologia da informação. 
+---
 
+## 🚀 Sobre mim
+- 📱 Curioso por tudo que envolve desenvolvimento web, mobile e boas práticas de código  
+- ⚙️ Gosto de entender como as coisas funcionam por trás das interfaces  
+- 🎨 Valorizo organização, design limpo e experiências de usuário intuitivas  
+  
 
-- 📫 Contato: **ruancontacts10@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ruan1083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruan1083" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruannnz7&" alt="ruannnz7" /></p>
+## 🛠️ Tecnologias e linguagens
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</div>
