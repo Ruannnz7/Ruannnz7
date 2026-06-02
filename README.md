@@ -1,4 +1,4 @@
-# Olá, me chamo Ruan! 👨‍💻
+# Olá, me chamo Ruan! 
 
 Atualmente, estou estudando Sistemas de Informação  e busco constantemente expandir meu conhecimento e aprimorar minhas habilidades de programação na área de tecnologia da informação. 
 ---
