@@ -4,7 +4,7 @@ Atualmente, estou estudando Sistemas de Informação  e busco constantemente exp
 ---
 
 
----
+
 
 ## 🛠️ Tecnologias e linguagens
 <div style="display: flex; gap: 10px;">
